@@ -1,0 +1,5 @@
+export {default as Card1} from "./1.webp"
+export {default as Card2} from "./2.webp"
+export {default as Card3} from "./3.webp"
+export {default as People1} from "./persona1.webp"
+export {default as Taladro1} from "./taladro.jpg"
